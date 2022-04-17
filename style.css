@@ -1,0 +1,19 @@
+body {
+  font-family: 'Nunito', sans-serif;
+  background-image: url('https://i.pinimg.com/736x/91/dd/bb/91ddbb335279ee0978d400fc0500f185.jpg');
+  text-align: center;
+  background-size: cover;
+  background-position: center top;
+  background-repeat: no-repeat;
+}
+
+.titulo {
+  color: #DCDCDC;
+  font-size: 30px;
+}
+
+.descricao {
+  color: #DCDCDC;
+  font-size: 28px;
+}
+
